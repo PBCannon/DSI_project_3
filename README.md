@@ -44,6 +44,7 @@ The Ames housing dataset contains 81 potential price drivers and the sale price 
 
 
 **Value per unit added (unit of quality, sqft, per bathroom or age)**
+
 |          Feature             | Dollar Value ($)|
 |------------------------------|-----------------|
 | OverallQual                  | 11587.98        |
