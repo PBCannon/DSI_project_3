@@ -4,9 +4,9 @@ KAGGLE AMES HOUSING DATASET link : https://www.kaggle.com/prevek18/ames-housing-
 **@PBCANNON/PROPERTY-SALEPRICE-PREDICTION-MODEL**
 
 ## PROJECT GOALS: 
-•	Generate a machine learning model that predicts Home Sale Prices. 
-•	Extract dollar values for positive and negative price drivers.
-•	Use model to boost sale prices during an economic downturn.
+- Generate a machine learning model that predicts Home Sale Prices. 
+- Extract dollar values for positive and negative price drivers.
+- Use model to boost sale prices during an economic downturn.
 
 
 ## PART 1: MACHINE LEARNING
